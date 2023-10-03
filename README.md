@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript, Linux command line and git/GitHub
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-🔭 I’m currently working on various coding projects to expand my skills and build practical experience.
+
+🌱 I’m currently learning new programming languages and technologies to stay up-to-date with the ever-evolving field of software development.
+
+👯 I’m looking to collaborate on open-source projects that promote learning and innovation, especially those related to web development and software engineering.
+
+🤔 I’m looking for help with debugging complex code issues and exploring best practices for software design and architecture.
+
+💬 Ask me about anything related to software development, coding challenges, or tech-related topics. I'm always up for a coding discussion!
+
+📫 How to reach me: You can reach me through email at ...
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I have a collection of vintage computer keyboards, each with its unique mechanical switches.
 -->
