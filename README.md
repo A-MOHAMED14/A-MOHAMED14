@@ -1,4 +1,4 @@
-#Hi there 👋
+###Hi there 👋
 
 <!--
 **A-MOHAMED14/A-MOHAMED14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
 Welcome to my GitHub profile! I'm [Your Name], a passionate developer on a journey to learn and create awesome things. Here's a bit about me:
+
+
+
 
 🌱 I'm currently learning Full Stack Web Development through various online courses and projects.
 💻 I love coding in HTML, CSS, JavaScript, Node.js, and more.
