@@ -21,11 +21,33 @@ Welcome to my GitHub profile! I'm Amin Mohamed, a passionate developer on a jour
 
 ### Projects ###
 
-- Here are some of my recent projects:
+### Here are some of my personal projects:
 
-Project 1
-Project 2
-Project 3
+### Movie Recommendation app - github  
+
+A movie recommendation app using an external API to retrieve and display data. 
+
+Tools: JavaScript, TMDB API, HTML, CSS 
+
+Key Focus: Explored working with APIs to learn more about asynchronous JavaScript, and developed creative problem-solving techniques. 
+
+ 
+### Personal Finance Tracker 
+
+A personal finance management application that helps users track their income, expenses, and budgets to manage finances effectively. 
+
+Tools: Node.js, Express.js, PostgreSQL, Sequelize (ORM), Bcrypt, CSS, JavaScript, Handlebars, MVC architecture 
+
+Key Focus: Built an application with a focus on backend development, integrating a relational database using PostgreSQL and implementing user authentication with Bcrypt. This project enhanced my understanding of data management, the MVC architecture, and developing secure user authentication systems. 
+
+ 
+### MERN E-commerce Store - github 
+
+An e-commerce platform for tech products built with the MERN stack, including payment integration. 
+
+Tools: React, Vite, Node.js, Express.js, MongoDB, mongoose (ODM), JWT, Bcrypt, CSS, Stripe 
+
+Key Focus: Designed and developed a full-stack web application, leveraging the MERN stack. Implemented user authentication with JWT, database management with MongoDB, and payment functionality using Stripe. This project allowed me to refine my skills in React and backend integration while working on a real-world e-commerce solution. 
 
 - Feel free to explore my repositories to see more of my work!
 
